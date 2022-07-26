@@ -15,4 +15,5 @@ public class App {
         System.out.println(cat1==cat2);
         System.out.println(bean.getMessage());
     }
+
 }
